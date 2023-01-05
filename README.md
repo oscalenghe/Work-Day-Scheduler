@@ -7,3 +7,9 @@ Link to deployed application:
 
 A screenshot of the working application:![image](https://user-images.githubusercontent.com/42279508/210885192-fc771d65-4622-4194-9c84-a2edea1d8c3a.png)
 ![image](https://user-images.githubusercontent.com/42279508/210885144-26df0aea-0154-41e0-b8e3-42b3db226ae8.png)
+
+## Installation
+N/A
+
+## License
+Check repository for licensing.
